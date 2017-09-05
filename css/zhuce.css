@@ -1,0 +1,138 @@
+
+
+/*头部*/
+
+#toubu{
+	width: 100%;
+	height: 100px;
+	background: #f2f2f2;
+}
+
+#toubu1{
+	width: 1200px;
+	margin: auto;
+	height: 100%;
+	background: #fff;
+	box-shadow: #242424 0px 0px 10px;
+}
+
+#toubu1_1{
+	width: 80%;
+	height: 100%;
+	float: left;
+}
+
+#toubu1_1 img{
+	float: left;
+	height: 100px;
+}
+
+#toubu1_2{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+
+#toubu1_2 p{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 100px;
+}
+
+
+
+
+
+/*内容*/
+
+#nrong{
+	width: 1200px;
+	height: 420px;
+	margin: auto;
+	box-shadow: #242424 0px 0px 10px;
+}
+
+
+#nrong h1{
+	text-align: center;
+	line-height: 50px;
+	height: 50px;
+}
+
+
+
+			#nrong ul{
+				width: 600px;
+				height: 350px;
+			    border: 1px solid #ccc;
+			    border-radius: 10px;
+				margin: auto;
+				box-shadow: #242424 0px 0px 10px;
+				background: #fff;
+			}
+			#nrong input{
+				border: 0px;
+				height: 30px;
+				width: 150px;
+				
+			}
+			#nrong li{
+				width: 280px;
+				height: 50px;
+				text-align: center;
+				line-height: 50px;
+				border: 1px solid #ccc;
+				border-radius: 10px;
+				margin: auto;
+				box-shadow: #242424 0px 0px 10px;
+			}
+			#btn{
+				width: 240px;
+				border-radius: 10px;
+				height: 45px;
+			}
+			#span4{
+				/*display: block;*/
+				text-align: center;
+				color: #f00;
+				font-weight: bolder;
+			}
+			#span0{
+				/*display: block;*/
+				text-align: center;
+				color: #f00;
+				font-weight: bolder;
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*底部*/
+
+
+
+#dibu5{
+	width: 1200px;
+	height: 240px;
+	margin: auto;
+	background: #f2f2f2;
+}
+
+#dibu5 p{
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	
+}
